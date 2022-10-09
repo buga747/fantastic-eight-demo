@@ -1,0 +1,29 @@
+.about__list {
+  padding: 0;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  gap: 100px;
+  list-style: none;
+}
+
+.about__item {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100px;
+  height: 100px;
+  background-color: red;
+}
+
+.about__link {
+  font-size: 50px;
+  font-weight: 700;
+  text-decoration: none;
+  color: yellow;
+}
+
+.about__title {
+  text-align: center;
+  margin: 0 0 20px 0;
+}
